@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Caio Moreira</h1>
 
-- 💻 Estudando de Sistemas de Informação na Universidade do Planalto Catarinense
+- 💻 Estudando de Sistemas de Informação na UNIPLAC
 
 <br>
 
