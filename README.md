@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Caio Moreira</h1>
 
-- 💻 Estudando de Sistemas de Informação na UNIPLAC
+- 💻 Estudante de Sistemas de Informação na UNIPLAC
 
 <br>
 
@@ -19,6 +19,11 @@
       <img
         alt="JAVASCRIPT"
         src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      />
+      <img
+        alt="C#"
+        src="https://img.shields.io/badge/CSharp-F7DF1E?style=for-the-badge&logo=csharp&logoColor=black"
+      />
     </div>
     
 <br><br>
