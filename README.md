@@ -5,7 +5,7 @@
 <br>
 
 
-## 🛠 &nbsp; Tenho conhecimento sobre as tecnologias 
+## 🛠 &nbsp; Tenho algum conhecimento sobre as seguintes tecnologias 
 
 <div style="display: flex;">
       <img
@@ -43,7 +43,7 @@
 
 ##  &nbsp;Social Media
 
-<a href="https://www.linkedin.com/in/caio-moreira-de-carvalho-a5b665210/"
+<a href="https://www.linkedin.com/in/caiomdc"
       ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn"
     /></a>
