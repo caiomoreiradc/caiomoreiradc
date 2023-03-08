@@ -22,7 +22,7 @@
       />
       <img
         alt="C#"
-        src="https://img.shields.io/badge/CSharp-F7DF1E?style=for-the-badge&logo=csharp&logoColor=black"
+        src="https://img.shields.io/badge/CSharp-00FF00style=for-the-badge&logo=csharp&logoColor=~white"
       />
     </div>
     
