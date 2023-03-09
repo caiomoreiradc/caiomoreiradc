@@ -35,11 +35,6 @@
     alt="caiomoreiradc"
     src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=dark"
   />
-<img
-    width="400px"
-    alt="caiomoreiradc"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomoreiradc&layout=compact"
-  />
 
 ##  &nbsp;Social Media
 
