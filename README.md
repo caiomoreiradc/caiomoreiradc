@@ -28,15 +28,7 @@
     
 <br><br>
 
-## ⚙ &nbsp;GitHub Analytics
-
-<img
-    width="400px"
-    alt="caiomoreiradc"
-    src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=dark"
-  />
-
-##  &nbsp;Social Media
+## 🌎 &nbsp;Social Media
 
 <a href="https://www.linkedin.com/in/caiomdc"
       ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
