@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Caio Moreira</h1>
 
-- 💻 Estudante de Sistemas de Informação na UNIPLAC
+- 💻 Estudante de Sistemas de Informação na UNIPLAC 3/8
 
 <br>
 
