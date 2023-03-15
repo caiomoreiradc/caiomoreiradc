@@ -2,8 +2,7 @@
 
 - 💻 Estudante de Sistemas de Informação na UNIPLAC 3/8
 - 💻 Aluno da Academia do Programador 2023 | Semana 02/36
-<br>
-## 🛠 Tenho algum conhecimento sobre as seguintes tecnologias 
+<h2>🛠 Tenho algum conhecimento sobre as seguintes tecnologias</h2>
 
 <div style="display: flex;">
       <img
@@ -32,8 +31,7 @@
 <br>
 <br>
 <br>
-<br>
-## 🌎Social Media
+<h2>🌎Social Media</h2>
 
 <a href="https://www.linkedin.com/in/caiomdc"
       ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
