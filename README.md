@@ -2,11 +2,8 @@
 
 - 💻 Estudante de Sistemas de Informação na UNIPLAC 3/8
 - 💻 Aluno da Academia do Programador 2023 | Semana 02/36
-
 <br>
-
-
-## 🛠 &nbsp; Tenho algum conhecimento sobre as seguintes tecnologias 
+## 🛠 Tenho algum conhecimento sobre as seguintes tecnologias 
 
 <div style="display: flex;">
       <img
@@ -25,15 +22,18 @@
         alt="C#"
         src="https://img.shields.io/badge/CSharp-9B4994?style=for-the-badge&logo=csharp&logoColor=~white"
       />
+      <br>
+      <img align="left"  width="40%"  src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=dracula"/>
     </div>
-    
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=dracula" />
-    
-    
-    
 <br>
-
-## 🌎 &nbsp;Social Media
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+## 🌎Social Media
 
 <a href="https://www.linkedin.com/in/caiomdc"
       ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
