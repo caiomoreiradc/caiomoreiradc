@@ -27,9 +27,9 @@
       />
     </div>
     
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=radical" />
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomoreiradc&layout=compact" />
+<img align="left" width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiomoreiradc&layout=compact" />
     
     
     
