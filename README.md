@@ -23,7 +23,6 @@
       />
       <br>
     </div>
-<br>
 <h2>🌎Social Media</h2>
 
 <a href="https://www.linkedin.com/in/caiomdc"
