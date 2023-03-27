@@ -22,14 +22,7 @@
         src="https://img.shields.io/badge/CSharp-9B4994?style=for-the-badge&logo=csharp&logoColor=~white"
       />
       <br>
-      <img align="left"  width="40%"  src="https://github-readme-stats.vercel.app/api?username=caiomoreiradc&show_icons=true&theme=dracula"/>
     </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <h2>🌎Social Media</h2>
 
