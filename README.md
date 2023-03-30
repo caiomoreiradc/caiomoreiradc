@@ -1,6 +1,6 @@
 <h1>Olá, meu nome é Caio Moreira</h1>
 
-- 💻 Estudante de Sistemas de Informação na UNIPLAC 3/8
+- 💻 Estudante de Sistemas de Informação na UNIPLAC| Semestre 3/8
 - 💻 Aluno da Academia do Programador 2023 | Mês  1/9
 <h2>🛠 Tenho algum conhecimento sobre as seguintes tecnologias</h2>
 
