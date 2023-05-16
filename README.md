@@ -4,34 +4,14 @@
 - 💻 Aluno da Academia do Programador 2023 | Mês  2/9
 <h2>🛠 Tenho algum conhecimento sobre as seguintes tecnologias</h2>
 
-<div style="display: flex;">
-      <img
-        alt="HTML5"
-        src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-      />
-      <img
-        alt="CSS3"
-        src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-      />
-      <img
-        alt="JAVASCRIPT"
-        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-      />
-      <img
-        alt="C#"
-        src="https://img.shields.io/badge/CSharp-9B4994?style=for-the-badge&logo=csharp&logoColor=~white"
-      />
-      <br>
-    </div>
-<h2>🌎Social Media</h2>
 
-<a href="https://www.linkedin.com/in/caiomdc"
-      ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn"
-    /></a>
-<a href="https://www.instagram.com/caicomc/?theme=dark"
-      ><img
-        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        alt="Instagram"
-    /></a>
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=caiomoreiradc&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreiradc&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomoreiradc&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=caiomoreiradc&icon=0&color=0)](https://visitcount.itsvg.in)
+
