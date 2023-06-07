@@ -1,7 +1,7 @@
 # 💻 Olá, meu nome é Caio Moreira</h1>
 
 - Estudante de Sistemas de Informação na UNIPLAC| Semestre 3/8
-- Aluno da Academia do Programador 2023 | Mês  2/9
+- Aluno da Academia do Programador 2023 | Mês  3/9
 # 🛠 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 # 📊 GitHub Stats:
