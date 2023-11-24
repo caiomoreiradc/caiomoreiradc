@@ -12,7 +12,6 @@
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <br>
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=caiomoreiradc&theme=radical&no-frame=true&no-bg=true&margin-w=4)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=caiomoreiradc&theme=radical&no-frame=true&no-bg=true&margin-w=4)<br/>
