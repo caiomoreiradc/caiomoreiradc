@@ -11,7 +11,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=caiomoreiradc&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=caiomoreiradc&theme=radical&no-frame=true&no-bg=true&margin-w=4)<br/>
