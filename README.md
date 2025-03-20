@@ -2,7 +2,7 @@
 
 # 💻 Olá, meu nome é Caio Moreira</h1>
 
-- Estudante de Sistemas de Informação na UNIPLAC | Semestre 6/8
+- Estudante de Sistemas de Informação na UNIPLAC | Semestre 7/8
 - Aluno da Academia do Programador 2023
 # 🛠 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
