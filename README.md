@@ -2,12 +2,12 @@
 
 # 💻 Olá, meu nome é Caio Carvalho</h1>
 
-- Estudante de Sistemas de Informação na UNIPLAC | Semestre 7/8
+- Bacharel em Sistemas de Informação - Universidade do Planalto Catarinense
 - Aluno da Academia do Programador 2023
 # 🛠 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React]([https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white))
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 <br>
